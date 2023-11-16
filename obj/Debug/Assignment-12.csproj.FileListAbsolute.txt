@@ -1,0 +1,7 @@
+C:\Users\Home\Desktop\Mphasis\Assignment-12\bin\Debug\Assignment-12.exe.config
+C:\Users\Home\Desktop\Mphasis\Assignment-12\bin\Debug\Assignment-12.exe
+C:\Users\Home\Desktop\Mphasis\Assignment-12\bin\Debug\Assignment-12.pdb
+C:\Users\Home\Desktop\Mphasis\Assignment-12\obj\Debug\Assignment-12.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Mphasis\Assignment-12\obj\Debug\Assignment-12.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Mphasis\Assignment-12\obj\Debug\Assignment-12.exe
+C:\Users\Home\Desktop\Mphasis\Assignment-12\obj\Debug\Assignment-12.pdb
